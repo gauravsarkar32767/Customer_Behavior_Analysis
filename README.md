@@ -41,4 +41,3 @@ The project uses Python for data cleaning and EDA, MySQL for SQL analysis, and P
 ## 👨‍💻 Author
 **Gaurav Sarkar** | Aspiring Data Analyst
 
-🔗 [GitHub](https://github.com/gauravsarkar32767) | [Portfolio](https://gauravsarkardataanalystportfolio.my.canva.site/)
