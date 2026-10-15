@@ -1,4 +1,4 @@
-# 🛍️ Customer Shopping Behavior Analysis
+# 🛍️ Customer Shopping Behavior Analysis 
 
 ## 📌 Project Overview
 This project analyzes customer shopping behavior using data from 3,900 purchases to understand purchasing patterns, product preferences, discounts, and customer loyalty.
