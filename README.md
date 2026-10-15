@@ -11,6 +11,9 @@ The project uses Python for data cleaning and EDA, MySQL for SQL analysis, and P
 - 🗄️ **MySQL:** SQL queries and business analysis
 - 📊 **Power BI:** Interactive dashboard
 - 📓 **Jupyter Notebook:** Python analysis
+- analysis
+- 🎨 **Gamma** – Project presentation
+
 
 ## 🔄 Project Workflow
 1. **Data Cleaning:** Loaded the dataset, handled missing values, and prepared data using Python.
